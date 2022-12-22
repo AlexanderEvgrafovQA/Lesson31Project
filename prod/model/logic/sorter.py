@@ -11,14 +11,14 @@ class Sorter:
                         parking[index + 1] = temp
 
 
-park = Parking(10)
-print(park)
-
-park.add(Transport(1,1, "BBBbbbbBBB"))
-park.add(Transport(1,1, "Aaaaa"))
-park.add(Transport(1,1, "Eeeeee"))
-park.add(Transport(1,1, "Ddddd"))
-
-print(park)
-
-Sorter.sort(park)
+# park = Parking(10)
+# print(park)
+#
+# park.add(Transport(1,1, "BBBbbbbBBB"))
+# park.add(Transport(1,1, "Aaaaa"))
+# park.add(Transport(1,1, "Eeeeee"))
+# park.add(Transport(1,1, "Ddddd"))
+#
+# print(park)
+#
+# Sorter.sort(park)
